@@ -1,13 +1,6 @@
 <%provide(:title, 'About Us')%>
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Sample on Rails | <%= yield(:title)%></title>
-</head>
-<body>
 <h1>About Us</h1>
 <p>
 I am doing this as practice
 </p>
-</body>
-</html>
+

@@ -1,11 +1,6 @@
 <% provide(:title, 'Help') %>
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Sample on Rails | <%= yield(:title)%></title>
-</head>
 <h1>Help</h1>
 <p>
 ALL HOPE ABANDON, YE WHO ENTER
 </p>
-</html>
+
